@@ -1,14 +1,14 @@
 # Software Review Guidelines WPL
 
-# *POR COMPLETAR*
+# *FALTARÍA PONER LO DE LOS PUGS*
 
 ## 1. Acceso al Sistema y Versiones (Releases)
 
 ### 1.1 Enlace de Despliegue
-* **Despliegue Final:**
+* **Despliegue Final:** https://rooma-wpl.vercel.app/
 
 ### 1.2 Release en GitHub
-* **Página de la Release:**
+* **Página de la Release:** https://github.com/ISPP-ROOMA/rooma-wpl/releases/tag/wpl
 * **Registro de Cambios:** *Se pueden ver todos los cambios realizados desde la página de la release indicada arriba*
 
 ---
