@@ -1,7 +1,5 @@
 # Contribuciones a la base de datos compartida
 
-# *POR COMPLETAR*
-
 ## Enlace a la base de datos compartida
 
 - **Despliegue:** https://ispp-2026.github.io/common-knowledge-base/
@@ -69,3 +67,18 @@ Se añadió a la BDD común los siguientes elementos, que condensan el feedback 
 - Sincronización del feedback interno de ROOMA con la base de datos común, asegurando que toda la información relevante y generalizable esté disponible para todos los grupos.
 - Revisión cruzada entre el documento interno `feedback-recopilado.md` y el archivo `grupo-a-rooma.md` de la BDD común para detectar y corregir puntos faltantes.
 - Incorporación de las pautas de presentación final del PPL al conocimiento común para que todos los equipos puedan utilizarlas como referencia.
+
+---
+
+## World Project Launch / WPL (15/05 – 21/05)
+
+### Contenido aportado
+- **Análisis de competidores:** Se ha actualizado la información relativa a las tablas de análisis de competidores para reflejar el estado actual del mercado.
+- **Vídeo de presentación:** Se han actualizado los personajes del vídeo para que sean coherentes con los utilizados en las diapositivas de presentación, y se ha revisado el vocabulario empleado en el vídeo dirigido a inversores para evitar términos inapropiados o imprecisos.
+- **Plan de negocio:** Se ha actualizado el contenido del plan de negocio conforme al feedback recibido.
+- **Análisis económico:** Se ha eliminado la diapositiva o sección de Breakeven del material presentado.
+
+### Acciones de mejora
+- Se han alineado los elementos visuales del vídeo con los de las presentaciones para mantener una identidad coherente en todos los materiales del proyecto.
+- Se ha revisado el lenguaje del vídeo de inversores para asegurar un tono profesional y preciso.
+- Se ha simplificado el análisis económico suprimiendo el Breakeven, adaptando el contenido a las indicaciones recibidas.

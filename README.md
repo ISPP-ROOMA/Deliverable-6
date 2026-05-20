@@ -5,9 +5,9 @@ Hay que tener:
 * Dedication xlsx HECHO
 * Deliverable pdf *POR HACER*
 * Pilot users pdf HECHO
-* Slides pdf *POR HACER*
+* Slides pdf HECHO
 * Software review guidelines md y pdf *POR HACER*
 * Time report pdf *POR HACER*
-* Contribución bdd md *POR HACER*
-* Demos md *POR HACER*
+* Contribución bdd md HECHO
+* Demos md HECHO
 * IA ussage md HECHO
